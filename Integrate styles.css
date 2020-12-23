@@ -1,0 +1,25 @@
+ .bodytext{
+            font-family: "Times New Roman";
+            font-size: 22px;
+            color: blue;
+            font-style:italic;
+        }
+.Titletext{
+    font-family: "Times New Roman";
+    font-size: 42px;
+    color: #903535;
+    text-align: center;
+    font-style: oblique;
+    background-color:#0A352F
+
+}
+
+
+.Navigationbar{
+    color: #4e3622;
+    width:100px
+
+
+
+
+}
